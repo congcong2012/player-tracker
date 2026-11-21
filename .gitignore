@@ -1,0 +1,24 @@
+# 构建产物
+build/
+out/
+run/
+run-data/
+
+# Gradle
+.gradle/
+build-cache/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# 系统
+.DS_Store
+Thumbs.db
