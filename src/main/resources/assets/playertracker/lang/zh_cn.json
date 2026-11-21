@@ -1,0 +1,15 @@
+{
+    "item.playertracker.player_compass": "玩家追踪指南针",
+    "item.playertracker.player_compass.tracked": "追踪目标：%s",
+    "item.playertracker.player_compass.unbound": "未绑定追踪目标",
+    "item.playertracker.player_compass.hint_bind": "右键玩家：绑定 / 切换目标",
+    "item.playertracker.player_compass.hint_clear": "潜行 + 右键：清除目标",
+    "message.playertracker.bound": "开始追踪 %s",
+    "message.playertracker.cleared": "已清除追踪目标",
+    "message.playertracker.self": "不能追踪自己",
+    "hud.playertracker.unbound": "追踪指南针：未绑定",
+    "hud.playertracker.syncing": "追踪指南针：同步中…",
+    "hud.playertracker.distance": "%s · %s 格",
+    "hud.playertracker.other_dimension": "%s · 位于%s",
+    "hud.playertracker.offline": "%s · 离线"
+}

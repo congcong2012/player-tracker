@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="playertracker"
+version="1.0.0"
+displayName="Player Tracker Compass"
+authors="Player Tracker"
+description='''玩家追踪指南针：复用原版指南针的材质与模型，右键玩家即可绑定追踪目标。
+
+手持时指针指向目标并显示距离；目标离线、未绑定或身处其他维度时，HUD 会给出明确状态。
+
+Player Tracker Compass: bind a player by right-clicking them, then hold the compass to see the needle point at them along with the distance. Offline, unbound and cross-dimension states are shown explicitly.'''
+
+[[dependencies.playertracker]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.playertracker]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"

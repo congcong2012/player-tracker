@@ -1,0 +1,15 @@
+{
+    "item.playertracker.player_compass": "Player Tracker Compass",
+    "item.playertracker.player_compass.tracked": "Tracking: %s",
+    "item.playertracker.player_compass.unbound": "No tracking target",
+    "item.playertracker.player_compass.hint_bind": "Right-click a player: bind / switch target",
+    "item.playertracker.player_compass.hint_clear": "Sneak + right-click: clear target",
+    "message.playertracker.bound": "Now tracking %s",
+    "message.playertracker.cleared": "Tracking target cleared",
+    "message.playertracker.self": "You can't track yourself",
+    "hud.playertracker.unbound": "Tracker compass: no target",
+    "hud.playertracker.syncing": "Tracker compass: syncing…",
+    "hud.playertracker.distance": "%s · %s blocks",
+    "hud.playertracker.other_dimension": "%s · in %s",
+    "hud.playertracker.offline": "%s · offline"
+}
